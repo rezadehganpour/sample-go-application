@@ -1,4 +1,4 @@
-# sample-go-application
+# Healthcare Assistant Platform (HAP)
 
 ## Languages:
 * Ruby
