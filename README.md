@@ -22,6 +22,7 @@
 * welcome Page for everyone
 * doctor registration form
 * patient registration form
+
 ## Install:
 ### Mac Users:
 * install Glide: `brew install glide`
