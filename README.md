@@ -13,6 +13,10 @@
 * Sinatra
 * Flask
 
+## Databases:
+* MySQL
+* Postgres
+
 ## Components:
 * welcome Page for everyone
 * doctor registration form
