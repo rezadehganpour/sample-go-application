@@ -1,16 +1,16 @@
 # sample-go-application
 
-Languages:
+## Languages:
 * Ruby
 * Golang
 * Python
 * Javascript
 * Docker
 
-Frameworks:
+## Frameworks:
 * ReactJS
 
-Components:
+## Components:
 * welcome Page for everyone
 * doctor registration form
 * patient registration form
