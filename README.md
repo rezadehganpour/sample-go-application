@@ -1,8 +1,9 @@
 # Healthcare Assistant Platform (HAP)
 
 ## Languages:
+
 * Ruby
-* Golang
+* Golang(Gorila)
 * Python
 * Javascript
 * Docker
