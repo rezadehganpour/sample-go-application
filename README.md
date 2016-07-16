@@ -9,6 +9,7 @@
 
 ## Frameworks:
 * ReactJS
+* Rails
 
 ## Components:
 * welcome Page for everyone
