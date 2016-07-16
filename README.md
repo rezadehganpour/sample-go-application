@@ -10,6 +10,8 @@
 ## Frameworks:
 * ReactJS
 * Rails
+* Sinatra
+* Flask
 
 ## Components:
 * welcome Page for everyone
