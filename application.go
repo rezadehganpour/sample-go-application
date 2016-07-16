@@ -1,9 +1,10 @@
 package main
 
 import (
+	//	"database/sql"
 	"encoding/json"
 	"github.com/gorilla/mux"
-	"github.com/lib/pq"
+	//	_ "github.com/lib/pq"
 	"log"
 	"net/http"
 )

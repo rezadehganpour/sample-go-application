@@ -1,5 +1,5 @@
-hash: 8379879854784aca64ae1e1bfe47bd5eee3a0489e6f631b923aa309c0147e5e5
-updated: 2016-07-16T15:49:39.120209175-04:00
+hash: aa11d8b04770be363b8c2afcb82dcd48d512ce4065cc867e22b266b7e4bbac24
+updated: 2016-07-16T16:09:58.347744298-04:00
 imports:
 - name: github.com/gorilla/context
   version: aed02d124ae4a0e94fea4541c8effd05bf0c8296
@@ -7,4 +7,8 @@ imports:
   version: 9fa818a44c2bf1396a17f9d5a3c0f6dd39d2ff8e
 - name: github.com/lib/pq
   version: 4dd446efc17690bc53e154025146f73203b18309
+  subpackages:
+  - oid
+- name: github.com/mattes/migrate
+  version: ce1b59bb819416ca67422929b1cb48bb342720b6
 devImports: []
