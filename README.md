@@ -1,5 +1,5 @@
 # Healthcare Assistant Platform (HAP)
-# TEST
+
 ## Languages:
 
 * Ruby
